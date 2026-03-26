@@ -27,8 +27,5 @@ The cards feature a **3D-style hover effect**:
 ├── index.html   # The structural layout of the cards
 └── styles.css   # The styling, animations, and color logic
 ```
-<img width="493" height="874" alt="{EB24A2D5-49F2-4495-A060-2DF3E907085B}" src="https://github.com/user-attachments/assets/3624a79f-0aff-47e4-9ac2-63f641745f77" />
-<br>
-<br>
 <img width="567" height="899" alt="{2114E074-359E-41A9-85E4-B8F19D97852A}" src="https://github.com/user-attachments/assets/a4d11eab-8e74-4da6-9d58-8dfdfcd2f07a" />
 
